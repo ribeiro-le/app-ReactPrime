@@ -116,7 +116,7 @@ expo  install  styled-components
 
 # Install Axios <br>
 
-Axios é um dos clientes HTTP mais fáceis de aprender e usar. Fazer uma solicitação de API é tão simples quanto passar um objeto de configuração<br> para o Axios ou invocar o método apropriado com os argumentos necessários. Você aprenderá o básico do Axios nesta seção
+Axios é um dos clientes HTTP mais fáceis de aprender e usar. Fazer uma solicitação de API é tão simples quanto passar um objeto de configuração<br> para o Axios ou invocar o método apropriado com os argumentos necessários. Você aprenderá o básico do Axios nesta seção.
 
 ```bash
 expo install axios
