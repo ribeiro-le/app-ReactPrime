@@ -1,4 +1,4 @@
-{
+{ "author": "Leandro Ribeiro",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",

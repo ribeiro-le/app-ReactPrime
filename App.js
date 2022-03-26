@@ -6,6 +6,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import Routes from './src/routes';
 
 function App() {
+
   return (
     <NavigationContainer>
       <StatusBar hidden={true} />
