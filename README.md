@@ -1,3 +1,7 @@
+# Visualização
+
+https://user-images.githubusercontent.com/88807757/160256002-1e593c43-cf40-427f-b0b6-46d3f41f05ca.mp4
+
 # Aplicação React Prime
 
 **React Native App - React Prime** using **Expo**, **Styled Components**, **Axios**, **Async Storage**, **React Navigation**
