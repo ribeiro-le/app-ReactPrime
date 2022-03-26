@@ -15,7 +15,7 @@ O aplicativo React Prime, é uma aplicação de catálogo de filmes. Todos os da
 Clone the repository.
 
 ```bash
-git clone https://github.com/ribeiro-le/app-react-prime-react-native.git
+git clone https://github.com/ribeiro-le/app-ReactPrime.git
 
 ```
 
